@@ -1,0 +1,4 @@
+public class EX1{
+public static double a;
+public static boolean ok;
+}
