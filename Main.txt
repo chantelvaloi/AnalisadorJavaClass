@@ -1,0 +1,8 @@
+public class Main{
+public static double a;
+public static float b;
+public static int number;
+
+EX1.a=a;
+EX2.nr=number;
+}
